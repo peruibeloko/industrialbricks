@@ -1,0 +1,13 @@
+{
+  "itemGroup.industrialbricks": "Example Mod Tab",
+  "block.industrialbricks.example_block": "Example Block",
+  "item.industrialbricks.example_item": "Example Item",
+
+  "industrialbricks.configuration.title": "Industrial Bricks Configs",
+  "industrialbricks.configuration.section.industrialbricks.common.toml": "Industrial Bricks Configs",
+  "industrialbricks.configuration.section.industrialbricks.common.toml.title": "Industrial Bricks Configs",
+  "industrialbricks.configuration.items": "Item List",
+  "industrialbricks.configuration.logDirtBlock": "Log Dirt Block",
+  "industrialbricks.configuration.magicNumberIntroduction": "Magic Number Text",
+  "industrialbricks.configuration.magicNumber": "Magic Number"
+}
